@@ -1,0 +1,22 @@
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# Python
+.venv/
+.env
+.env.*
+*.egg-info/
+
+# Data & logs
+data/*.db
+data/*.sqlite
+data/*.json
+logs/
+tmp/
+
+# Streamlit cache
+.streamlit/
